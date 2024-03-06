@@ -1,0 +1,38 @@
+Highway
+Cities Istanbul Izmir Ankara Antalya Kayseri Hatay Trabzon Şanlıurfa Kars Hakkari
+Istanbul 0 1 0 0 1 0 1 0 1 0
+Izmir 1 0 1 0 0 1 0 1 0 1
+Ankara 0 1 0 1 1 0 0 0 1 0
+Antalya 0 0 1 0 1 1 0 0 0 1
+Kayseri 1 0 1 1 0 0 1 1 0 0
+Hatay 0 1 0 1 0 0 1 0 1 0
+Trabzon 1 0 0 0 1 1 0 1 1 0
+Şanlıurfa 0 1 0 0 1 0 1 0 0 1
+Kars 1 0 1 0 0 1 1 0 0 0
+Hakkari 0 1 0 1 0 0 0 1 0 0
+
+Airway
+Cities Istanbul Izmir Ankara Antalya Kayseri Hatay Trabzon Şanlıurfa Kars Hakkari
+Istanbul 0 1 1 1 0 0 0 0 1 0
+Izmir 1 0 0 0 0 1 0 0 0 1
+Ankara 1 0 0 1 1 0 0 0 0 0
+Antalya 1 0 1 0 1 1 1 0 0 0
+Kayseri 0 0 1 1 0 0 1 1 0 0
+Hatay 0 1 0 1 0 0 1 1 1 0
+Trabzon 0 0 0 1 1 1 0 1 1 0
+Şanlıurfa 0 0 0 0 1 1 1 0 1 1
+Kars 1 0 0 0 0 1 1 1 0 1
+Hakkari 0 1 0 0 0 0 0 1 1 0
+
+Railway
+Cities Istanbul Izmir Ankara Antalya Kayseri Hatay Trabzon Şanlıurfa Kars Hakkari
+Istanbul 0 0 1 1 0 1 0 1 0 1
+Izmir 0 0 0 1 1 0 1 0 1 0
+Ankara 1 0 0 0 0 1 1 0 0 1
+Antalya 1 1 0 0 1 0 0 1 1 0
+Kayseri 0 1 0 1 0 1 0 0 0 1
+Hatay 1 0 1 0 1 0 1 1 0 0
+Trabzon 0 1 1 0 0 1 0 0 1 1
+Şanlıurfa 1 0 0 1 0 1 0 0 1 0
+Kars 0 1 0 1 0 0 1 1 0 0
+Hakkari 1 0 1 0 1 0 1 0 0 0
